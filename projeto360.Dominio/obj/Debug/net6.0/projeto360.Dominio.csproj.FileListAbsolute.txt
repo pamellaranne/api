@@ -1,0 +1,34 @@
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.deps.json
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfoInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfo.cs
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\refint\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Dominio\obj\Debug\net6.0\ref\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.deps.json
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfoInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfo.cs
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\refint\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 6\projeto360\projeto360.Dominio\obj\Debug\net6.0\ref\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.deps.json
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\bin\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfoInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.AssemblyInfo.cs
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\refint\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\ref\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\Aula 7\projeto360\projeto360.Dominio\obj\Debug\net6.0\projeto360.Dominio.csproj.AssemblyReference.cache

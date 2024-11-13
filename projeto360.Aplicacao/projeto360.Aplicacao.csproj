@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\projeto360.Repositorio\projeto360.Repositorio.csproj" />
+    <ProjectReference Include="..\projeto360.Dominio\projeto360.Dominio.csproj" />
+    <ProjectReference Include="..\projeto360.Servicos\projeto360.Servicos.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>

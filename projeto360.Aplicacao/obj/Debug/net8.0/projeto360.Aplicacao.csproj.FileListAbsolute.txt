@@ -1,0 +1,17 @@
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Aplicacao.deps.json
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Aplicacao.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Aplicacao.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.AssemblyInfoInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.AssemblyInfo.cs
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\refint\projeto360.Aplicacao.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\ref\projeto360.Aplicacao.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Dominio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Repositorio.dll
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Repositorio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\bin\Debug\net8.0\projeto360.Dominio.pdb
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto360.Aplicacao.csproj.AssemblyReference.cache
+C:\Users\Tarde\Desktop\pamellaranne\Arquitetura de Soluções\projeto360\projeto360.Aplicacao\obj\Debug\net8.0\projeto3.B3F4D3FF.Up2Date
